@@ -1,1 +1,1 @@
-terraform plan -generate-config-out=generated_resources.tf 
+terraform plan -generate-config-out="generated_resources.tf"
