@@ -1,2 +1,2 @@
 terraform plan -generate-config-out="generated_resources.tf"
-terraform import aws_instance.example
+terraform import aws_instance.example instance id
