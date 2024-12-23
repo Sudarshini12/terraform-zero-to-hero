@@ -1,0 +1,13 @@
+codespcae is a sandbox or container environment
+  >add dev container configuration file
+modify your active configuration --> search terraform
+terraform tfint,tfgrunt with verified tick mark
+keep defaults
+
+for aws
+ >add dev container configuration file
+modify your active configuration --> search aws CLI Containers
+keep defaults
+
+>rebuild
+  codespace: rebuild container
